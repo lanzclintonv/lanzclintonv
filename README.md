@@ -54,6 +54,6 @@ I'm a passionate full stack web developer with a love for building innovative an
 - [Email](mailto:lanzclintonv@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/lanzclintonv)
 
-- ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lanzclintonv&show_icons=true&theme=radical)
