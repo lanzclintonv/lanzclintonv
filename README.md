@@ -30,6 +30,7 @@ I'm a passionate full stack web developer with a love for building innovative an
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Tools and Platforms**
+
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
@@ -40,7 +41,7 @@ I'm a passionate full stack web developer with a love for building innovative an
 
 ## 🌱 What I'm currently learning
 
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-2D3748?style=for-the-badge&logo=drizzle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
